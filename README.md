@@ -1,5 +1,5 @@
 # datasciencecoursera
 
-*item one
-*item two
-*item 3
+* item one
+* item two
+* item 3
